@@ -1,1 +1,2 @@
 # MyBank
+My bank is a desktop application. Provide an interface which allows to remotely configure the system and to be accessible by the wide range of people. It is designed using JAVA Programing, Spring framework and Mysql Database. Helps customes in Banking firms to conduct financial transactions without the need of any human clerk or Bank Teller and Reduces manual work instead transactions that make this user account more secure.
